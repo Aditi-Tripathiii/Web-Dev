@@ -8,7 +8,4 @@
 // 4. git commit -m "commit message" - Commits the staged changes with a descriptive message
 // 5. git push - Pushes the committed changes to a remote repository
 
-
-//
-//
-ssa
+// empty commit
