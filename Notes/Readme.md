@@ -8,4 +8,4 @@
 // 4. git commit -m "commit message" - Commits the staged changes with a descriptive message
 // 5. git push - Pushes the committed changes to a remote repository
 
-// empty commit
+// empty commit is a commit that does not contain any changes to the files in the repository. It is used to create a new commit with a message, even if there are no changes to be committed. This can be useful for documenting a specific point in the project's history or for triggering certain actions in continuous integration workflows.
