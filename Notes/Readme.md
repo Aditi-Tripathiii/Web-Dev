@@ -12,4 +12,4 @@
 
  5. git push - Pushes the committed changes to a remote repository
 
- 6. git commit --allow-empty - Creates an empty commit with a message, even if there are no changes to be committed. This can be useful for documenting a specific point in the project's history or for triggering certain actions in continuous integration workflows.
+ 6. git commit --allow-empty - Creates an empty commit with a message, even if there are no changes to be committed. This can be useful for documenting a specific point in the project's history or for triggering certain actions in continuous integration workflowss .
